@@ -1,0 +1,5 @@
+Pembuatan composer json
+composer init 
+
+Membuat autoload
+composer dump-autoload

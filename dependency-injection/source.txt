@@ -1,0 +1,16 @@
+https://medium.com/koding-kala-weekend/dependency-injection-dan-di-php-2c9d24a885cb
+
+Dependency Injection adalah proses memasukkan (inject) sebuah class ke dalam class lain
+
+Misalkan sebagai variabel adalah bahan bakar pada Car dan Motorcycle
+Car 		-> pertamax
+Motorcycle	-> premium
+
+Langkah-langkah
+1. Buat class Car.php
+2. Buat class Motorcycle.php
+3. Buat interface Fuel.php, masukkan function pada class Premium dan class Pertamax
+4. Buat class Premium.php, require Fuel.php, implements Fuel
+5. Buat class Pertamax.php, require Fuel.php, implements Fuel
+6. Buat my-vehicle.php
+7. Jalankan my-vehicle.php

@@ -1,0 +1,19 @@
+{
+    "name": "munculgroup/calculator",
+    "description": "A simple PHP calculator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dwi Irawan",
+            "email": "dwiirawan08@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MunculGroup\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,3 @@
+https://medium.com/koding-kala-weekend/penjelasan-lengkap-tentang-namespace-di-php-ab356b44c34
+
+Namespace adalah sebuah penamaan yang digunakan untuk mengelompokkan ke dalam package / folder sebagai sebuah identitas tersendiri. Dengan namespace kita dapat memanggil class berdasarkan nama yang sudah ditentukan.

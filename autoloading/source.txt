@@ -1,0 +1,3 @@
+https://medium.com/koding-kala-weekend/autoloading-di-php-dan-implementasinya-menggunakan-psr-4-3005dd7a09e6
+
+Dengan memakai __autoload, kita tidak perlu lagi meng-include-kan file berisi class satu persatu, namun cukup dengan menginstansikan class dan PHP secara otomatis akan mengenali nama class dan mencari file yang memiliki nama yang sama dengan class tersebut.
